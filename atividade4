@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang=”pt-br”>
+<head>
+<meta charset=”UTF-8” />
+<title>Personalidades</title>
+</head>
+<body>
+  <header>
+    <a href="#renato"> <b>Renato Russo</b></a>
+    <a href="#kid"> <b>Kid Abelha</b></a>
+    <a href="#mamonas"> <b>Mamonas Assassinas</b></a>
+    -----------------------------------------------------------------------------------------------<br>
+  </header>
+  
+  <section id="renato">
+    <h3>Renato Russo</h3>
+      <a href="http://letras.mus.br/renato-russo/" title="Clique para ver a imagem real">
+      <img src="http://jornalcco.com.br/images/noticias/155/1318362245.jpg" title="Foto em miniatura" />
+  </section>
+  <section id="kid">
+    <h3>Kid Abelha</h3>
+      <a href="http://www.cifraclub.com.br/kid-abelha/" title="Clique para ver a imagem real">
+      <img src="http://s2.sscdn.co/uploadfile/letras/fotos/9/b/7/a/9b7aa03bfe67a8b122a42ee74c5e5090.jpg" title="Foto em miniatura" />
+  </section>
+    
+</body>
+</html>
