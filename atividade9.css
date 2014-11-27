@@ -13,3 +13,12 @@ section {
   width: 50%;
   background-color: #A7ECEB;
 }
+
+.esquerda {
+  float: left;
+}
+
+.direita {
+  float: right;
+   background-color: #61ECE9;
+}
