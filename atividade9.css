@@ -14,7 +14,7 @@ section {
   background-color: #A7ECEB;
 }
 
-section::before, section::after {
+footer::before, footer::after {
   clear: both;
 }
 
