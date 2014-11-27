@@ -20,5 +20,10 @@ section {
 
 .direita {
   float: right;
-   background-color: #61ECE9;
+   background-color: #4278A0;
+}
+
+footer {
+  min-height: 20px;
+  background-color: #000;
 }
