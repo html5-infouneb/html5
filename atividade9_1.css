@@ -9,6 +9,22 @@ header
   background-color: #D62509;
   border-bottom: 2px solid white;
 }
+
+#principal
+{
+  width: 80%;
+  display: inline-block;
+  margin-right: -4px;
+}
+
+aside
+{
+  width: 20%;
+  display: inline-block;
+  margin-right: -4px;
+  min-height: 100%;
+}
+
 section
 {
   min-height:800px;
