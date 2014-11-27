@@ -1,5 +1,16 @@
+body
+{
+  margin:0;
+  padding:0;
+}
 header
 {
   min-height:40px;
   background-color: #D62509;
+}
+section
+{
+  min-height:800px;
+  width:50%;
+  background-color: #D60009;
 }
