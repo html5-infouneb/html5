@@ -4,21 +4,21 @@ body
   font-weight: italic;
 }
 
-primeiro
+.primeiro
 {
   color: #7A3C0C;
   background-color: #BA7709;
   font-size: 8px;
 }
 
-segundo
+.segundo
 {
   color: green;
   background-color: #C4660A;
   font-size: 12px
 }
 
-terceiro
+.terceiro
 {
   color: black;
   background-color: #BA1309;
