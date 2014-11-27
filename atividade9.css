@@ -6,6 +6,7 @@ body {
 header {
   min-height: 40px;
   background-color: #41A09E;
+  border-bottom: 2px solid white;
 }
 
 section {
