@@ -1,6 +1,6 @@
 body
 {
-  background-color: #AD3C00;
+  background-color: #ABBF62;
   font-weight: italic;
 }
 
@@ -8,19 +8,19 @@ body
 {
   color: #7A3C0C;
   background-color: #BA7709;
-  font-size: 8px;
+  font-size: 12px;
 }
 
 .segundo
 {
   color: green;
   background-color: #C4660A;
-  font-size: 12px
+  font-size: 15px
 }
 
 .terceiro
 {
   color: black;
   background-color: #BA1309;
-  font-size: 15px;
+  font-size: 18px;
 }
