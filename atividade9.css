@@ -11,6 +11,15 @@ header {
 
 #principal {
   width: 80%;
+  display: inline-block;
+  margin-right: -4px;
+}
+
+aside {
+  width: 20%;
+  display: inline-block;
+  margin-right: -4px;
+  min-height: 100%;
 }
 
 section {
