@@ -7,6 +7,7 @@ header
 {
   min-height:40px;
   background-color: #D62509;
+  border-bottom: 2px solid white;
 }
 section
 {
@@ -27,5 +28,6 @@ section
 footer
 {
   min-height:40px;
+  
   background-color: #000;
 }
