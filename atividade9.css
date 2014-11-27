@@ -9,6 +9,10 @@ header {
   border-bottom: 2px solid white;
 }
 
+#principal {
+  width: 80%;
+}
+
 section {
   display: inline-block;
   min-height: 800px;
