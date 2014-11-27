@@ -10,21 +10,13 @@ header {
 }
 
 section {
+  display: inline-block;
   min-height: 800px;
   width: 50%;
   background-color: #A7ECEB;
 }
 
-footer::before, footer::after {
-  clear: both;
-}
-
-.esquerda {
-  float: left;
-}
-
 .direita {
-  float: right;
    background-color: #4278A0;
 }
 
