@@ -14,3 +14,18 @@ section
   width:50%;
   background-color: #D64530;
 }
+.esquerda
+{
+  background-color: #BF5A34;
+  float:left;
+}
+.direita
+{
+  background-color: #CC872D;
+  float: right;
+}
+footer
+{
+  min-height:40px;
+  background-color: #D62509;
+}
